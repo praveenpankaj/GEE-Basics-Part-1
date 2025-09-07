@@ -19,7 +19,7 @@ This tutorial is broken down into four parts as (coming soon youtube links):
 ## 📂 Repository Contents
 
 * `notebooks/` → Jupyter Notebooks for hands-on exercises
-* `scripts/` → Supporting Python/JavaScript scripts 
+* `scripts/` → Supporting JavaScript scripts 
 * `slides/` → Presentation slides from the tutorial
 
 ---
